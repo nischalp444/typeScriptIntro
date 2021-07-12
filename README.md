@@ -6,3 +6,12 @@
 - It is a powferful compiler
 - It adds TYPES
 - Will help identifying errors
+
+# Core Types
+
+- Number
+- String
+- Boolean
+- Object
+- Array
+- Tuple --> this is a fixed array
